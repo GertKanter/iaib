@@ -145,7 +145,7 @@ Vastavalt projektile võib olla pisut erinev (sprindid jne), aga üldiselt
 
 
 ---
-## Täpne ajakava individuaalse töö jaoks
+## Detailne ajakava individuaalse töö jaoks
 
 [Ajakava dokument](https://www.ttu.ee/public/i/infotehnoloogia-teaduskond/Tudengile/IAPB/Loputoo_projekti_haldamise_ajakava.pdf)
 
