@@ -147,7 +147,7 @@ Vastavalt projektile võib olla pisut erinev (sprindid jne), aga üldiselt
 ---
 ## Täpne ajakava individuaalse töö jaoks
 
-[Ajakava dokument](https://www.ttu.ee/public/i/infotehnoloogia-teaduskond/Tudengile/IAPB/Projekti_Bakalaureusetoo_tahtpunktid_ja_tegevuste_ajakava..pdf)
+[Ajakava dokument](https://www.ttu.ee/public/i/infotehnoloogia-teaduskond/Tudengile/IAPB/Loputoo_projekti_haldamise_ajakava.pdf)
 
 ---
 ## Küsimused?
