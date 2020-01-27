@@ -129,8 +129,8 @@ Vastavalt projektile võib olla pisut erinev (sprindid jne), aga üldiselt
 - Projektihaldus
 - Aja jälgimine (palju iga ülesande peale aega kulus, nt Toggl)
 - Agiilne arendus - iteratiivne, sprintidel põhinev
-- Töötav kood/tulemus iga sprindi lõpus (va esimene)
-- Esitlused esindajale (ettevõte või teadusprojekt) peale igat sprinti
+- Töötav kood/tulemus iga sprindi lõpus
+- Esitlused esindajale peale igat sprinti
 @ulend
 
 ---
