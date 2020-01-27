@@ -118,6 +118,7 @@ Projekt "iaib"
 - Kandideerite projekti(de)le
 - Kandideerimisprotsess (vestlus vms)
 - Valituks osutumisel, hakkate projekti tegema
+- Töö tegemine ettevõttes või ülikoolis (2 päeva nädalas esimesed kolm kuud, lõpufaasis saab vastavalt vajadusele ringi korraldada)
 @ulend
 
 ---
