@@ -45,9 +45,11 @@ Uurimistöö
 ---
 Teema sünnib tavaliselt vestlusest võimaliku juhendajaga
 
+@ul
 - Pakute välja teema/projekti ja täpsustate koostöös juhendajaga
 - Juhendaja antud teema tema uurimisvaldkonnas või projektidest
 - Konsultatsioonid (3 konsultatsiooni neljapäeviti (06.02, 13.02, 20.02) kell 12, ICT-411)
+@ulend
 
 ---
 ## Teemade nimekiri
