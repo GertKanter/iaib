@@ -40,6 +40,38 @@ Uurimistöö
 - Teoreetiline uurimus
 
 ---
+## Teema ja juhendaja leidmine
+
+Teema sünnib tavaliselt vestlusest võimaliku juhendajaga
+
+- Pakute välja teema/projekti ja täpsustate koostöös juhendajaga
+- Juhendaja antud teema tema uurimisvaldkonnas või projektidest
+- Konsultatsioonid (3 nädalat, neljapäeviti kell 12, ICT-411)
+
+---
+## Teemade nimekiri
+
+[Bakalaureusetööde nimekiri](https://livettu-my.sharepoint.com/:w:/g/personal/marko_kaaramees_ttu_ee/EY1MDcSqEl1Mktw5DM-Y-mABjE_WzksfO_zNuFDj3bs8iA)
+
+---
+## Juhendajate nimekiri
+
+[Juhendajate nimekiri](https://www.ttu.ee/?id=175012)
+
+---
+## Hea lõputöö
+
+@ul
+- Lahendab mingi selgelt püstitatud probleemi
+- Probleemipüstitus on põhjendatud, see on mingil otstarbel vajalik
+- Toetutakse adekvaatsele kirjandusele ja antakse ülevaade taustast
+- Lahenduseni jõutakse metoodiliselt. Praktilises töös selgitatakse selle arhitektuuri, komponente, tehnoloogilisi valikuid  
+- Autori panus on selgelt tuvastatav, kui tegemist on osaga suuremast probleemist
+- Tulemusi on adekvaatselt valideeritud-põhjendatud, on näidatud mil määral on eesmärgid saavutatud
+- Töö on hästi struktureeritude ja osad omavahel tasakaalus
+@ulend
+
+---
 ## Kolm sammu
 
 @ul
@@ -60,12 +92,6 @@ Uurimistöö
 - Lõputöö dokument
 - Kaitsmine
 @ulend
-
----
-## Juhendaja ja teema otsimine
-
----
-[Juhendajate nimekiri](https://www.ttu.ee/?id=175012)
 
 ---
 Juhendajaga ühenduse võtmisel kindlasti panna kaasa taustainfot enda kohta.
@@ -120,11 +146,6 @@ Projekt "iaib"
 - Wiki (memod koosolekutest juhendajaga jne)
 - (Mugavam koostöö juhendajaga)
 @ulend
-
----
-## Teemade nimekiri
-
-[Bakalaureusetööde nimekiri](https://livettu-my.sharepoint.com/:w:/g/personal/marko_kaaramees_ttu_ee/EY1MDcSqEl1Mktw5DM-Y-mABjE_WzksfO_zNuFDj3bs8iA)
 
 ---
 # Tiimiprojekt
