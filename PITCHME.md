@@ -96,7 +96,7 @@ Projekt "iaib"
 @ulend
 
 ---
-# Teemade nimekiri
+## Teemade nimekiri
 
 [Bakalaureusetööde nimekiri](https://livettu-my.sharepoint.com/:w:/g/personal/marko_kaaramees_ttu_ee/EY1MDcSqEl1Mktw5DM-Y-mABjE_WzksfO_zNuFDj3bs8iA)
 
