@@ -14,6 +14,31 @@ https://github.com/GertKanter/iaib
 @ulend
 
 ---
+## Lõputöö informaatikas
+
+Lõputöö peaks demonstreerima, et suudate pakkuda mingile päris probleemile tarkvaralist lahendust
+
+---
+Lõputöö õpiväljundid õppekavast
+
+@ul
+- oskab näha ja kirjeldada probleemi, mida saab tarkvaraliste vahenditega lahendada; 
+- suudab kavandada ja implementeerida vajaliku tarkvaralise lahenduse; 
+- suudab põhjendada disaini, tehnoloogia ja implementatsiooni valikuid; 
+- oskab vormistada projekti seletuskirja ja seda esitleda.
+@ulend
+
+---
+## Tavapärased lõputööd
+
+Tarkvaraprojekt
+- Iseseisev terviklik projekt
+- Osa suuremast projektist
+Uurimistöö
+- Eksperimentaalne võrdlus
+- Teoreetiline uurimus
+
+---
 ## Kolm sammu
 
 @ul
