@@ -242,6 +242,10 @@ Vastavalt projektile võib olla pisut erinev (sprindid jne), aga üldiselt
 - Individuaalne kaitsmine (individuaalne hindamine)
 @ulend
 
+---
+## Tiimiprojektide nimekiri
+
+[Aine ained.ttu.ee-s](https://ained.ttu.ee/course/view.php?id=302)
 
 ---
 ## Detailne ajakava individuaalse töö jaoks
