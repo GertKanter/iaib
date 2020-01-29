@@ -112,14 +112,14 @@ Teema sünnib tavaliselt vestlusest võimaliku juhendajaga
 ## Võimalik struktuur
 
 1. Sissejuhatus (< 10%)
-  1.1 Taust
-  1.2 Probleem
-  1.3 Eesmärk
-  1.4 Ülevaade tööst
+1.1. Taust
+1.2. Probleem
+1.3. Eesmärk
+1.4. Ülevaade tööst
 2. Metoodika (<20%)
-  2.1 Ülevaade objektist
-  2.2 Ülevaade tööriistadest
-  2.3 Ülevaade protsessist 
+2.1. Ülevaade objektist
+2.2. Ülevaade tööriistadest
+2.3. Ülevaade protsessist 
 3. Tulemused (30-40%)
 4. Analüüs, arutelu, järeldused (30-40%)
 5. Kokkuvõte (0.5 lk)
