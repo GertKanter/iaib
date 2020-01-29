@@ -34,6 +34,7 @@ Lõputöö õpiväljundid õppekavast
 Tarkvaraprojekt
 - Iseseisev terviklik projekt
 - Osa suuremast projektist
+
 Uurimistöö
 - Eksperimentaalne võrdlus
 - Teoreetiline uurimus
