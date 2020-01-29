@@ -77,7 +77,7 @@ Teema sünnib tavaliselt vestlusest võimaliku juhendajaga
 @ul
 - Autori panus on selgelt tuvastatav, kui tegemist on osaga suuremast probleemist
 - Tulemusi on adekvaatselt valideeritud-põhjendatud, on näidatud mil määral on eesmärgid saavutatud
-- Töö on hästi struktureeritude ja osad omavahel tasakaalus
+- Töö on hästi struktureeritud ja selle osad on omavahel tasakaalus
 @ulend
 
 ---
