@@ -72,6 +72,8 @@ Teema sünnib tavaliselt vestlusest võimaliku juhendajaga
 @ulend
 
 ---
+## Hea lõputöö...
+
 @ul
 - Autori panus on selgelt tuvastatav, kui tegemist on osaga suuremast probleemist
 - Tulemusi on adekvaatselt valideeritud-põhjendatud, on näidatud mil määral on eesmärgid saavutatud
