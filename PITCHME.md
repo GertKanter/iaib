@@ -66,10 +66,63 @@ Teema sünnib tavaliselt vestlusest võimaliku juhendajaga
 - Probleemipüstitus on põhjendatud, see on mingil otstarbel vajalik
 - Toetutakse adekvaatsele kirjandusele ja antakse ülevaade taustast
 - Lahenduseni jõutakse metoodiliselt. Praktilises töös selgitatakse selle arhitektuuri, komponente, tehnoloogilisi valikuid  
+@ulend
+
+---
+@ul
 - Autori panus on selgelt tuvastatav, kui tegemist on osaga suuremast probleemist
 - Tulemusi on adekvaatselt valideeritud-põhjendatud, on näidatud mil määral on eesmärgid saavutatud
 - Töö on hästi struktureeritude ja osad omavahel tasakaalus
 @ulend
+
+---
+## Suurepärane töö
+
+@ul
+- silmapaistev ja eriti põhjalik aine tundmine 
+- ambitsioonika ülesande põhjendatud ja viimistletud lahendamine
+- vaba ja loov teoreetiliste teadmiste ja praktiliste oskuste rakendamise oskus
+- ulatuslik iseseisev töö
+- mitmekülgne erialakirjanduse tundmine
+@ulend
+
+---
+## Ebamõistlik töö
+
+@ul
+- referaat või üldine essee valitud teemal
+- võrdlus, mille osas pole selge, kellele selle tulemus tegelikult kasulik on
+- tehnilise teostuse manuaal
+- töö, millel puudub või ei ole selgelt defineeritud ülesannet, mida lahendatakse 
+- plagiaat ja muul moel vormistuslikult mittekorrektne töö
+@ulend
+
+---
+## Hindamiskriteeriumid (olulisuse järjekorras)
+
+@ul
+- Sisuline lahendus ja analüüs
+- Sisulise töö maht ja ülesande keerukus
+- Lõputöö teostamise protsess
+- Vormistamine
+- Ettekanne / kaitsekõne
+@ulend
+
+---
+## Võimalik struktuur
+
+1. Sissejuhatus (< 10%)
+  1.1 Taust
+  1.2 Probleem
+  1.3 Eesmärk
+  1.4 Ülevaade tööst
+2. Metoodika (<20%)
+  2.1 Ülevaade objektist
+  2.2 Ülevaade tööriistadest
+  2.3 Ülevaade protsessist 
+3. Tulemused (30-40%)
+4. Analüüs, arutelu, järeldused (30-40%)
+5. Kokkuvõte (0.5 lk)
 
 ---
 ## Kolm sammu
