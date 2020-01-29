@@ -42,6 +42,7 @@ Uurimistöö
 ---
 ## Teema ja juhendaja leidmine
 
+---
 Teema sünnib tavaliselt vestlusest võimaliku juhendajaga
 
 - Pakute välja teema/projekti ja täpsustate koostöös juhendajaga
