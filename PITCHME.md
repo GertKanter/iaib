@@ -111,25 +111,21 @@ Teema sünnib tavaliselt vestlusest võimaliku juhendajaga
 ---
 ## Võimalik struktuur
 
-- Sissejuhatus (< 10%): taust, probleem, resmärk, ülevaade tööst
+- Sissejuhatus (< 10%): taust, probleem, eesmärk, ülevaade tööst
 - Metoodika (<20%): ülevaade objektist, ülevaade tööriistadest, ülevaade protsessist 
 - Tulemused (30-40%)
 - Analüüs, arutelu, järeldused (30-40%)
 - Kokkuvõte (0.5 lk)
 
 ---
-## Kolm sammu
+## Juhendajatega suhtlemine
 
-@ul
-- Juhendaja/teema
-- Ülesandepüstitus
-- Töö
-@ulend
+- Pidev (kord nädalas / üle nädala, nagu kokku lepitud)
+- Jäta juhendajale aega lugemiseks, vastamiseks, mõtlemiseks
+- Jäta endale aega mõtlemiseks, muudatuste sisseviimiseks
 
 ---
-## Detailsemalt...
-
----
+## Protsess
 @ul
 - Juhendaja + teema
 - Ülesandepüstitus
@@ -246,6 +242,15 @@ Vastavalt projektile võib olla pisut erinev (sprindid jne), aga üldiselt
 ## Detailne ajakava individuaalse töö jaoks
 
 [Ajakava dokument](https://www.ttu.ee/public/i/infotehnoloogia-teaduskond/Tudengile/IAPB/Loputoo_projekti_haldamise_ajakava.pdf)
+
+---
+## Lingid
+
+[Õppekavaveeb](https://www.ttu.ee/teaduskond/infotehnoloogia-teaduskond/it-tudengile/bakalaureuseope-48/informaatika-27/#)
+
+[Teaduskonna lõputööde infotundide materjalid](https://www.ttu.ee/teaduskond/infotehnoloogia-teaduskond/it-tudengile/loputoo-ja-lopetamine-9/infotundide-materjalid-3/)
+
+[Juhend ja mallid on kättesaadavad teaduskonna kodulehel](https://www.ttu.ee/teaduskond/infotehnoloogia-teaduskond/it-tudengile/loputoo-ja-lopetamine-9/loputoo-vormistamine-4/)
 
 ---
 ## Küsimused?
