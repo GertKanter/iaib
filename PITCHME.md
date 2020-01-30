@@ -253,6 +253,11 @@ Vastavalt projektile võib olla pisut erinev (sprindid jne), aga üldiselt
 [Ajakava dokument](https://www.ttu.ee/public/i/infotehnoloogia-teaduskond/Tudengile/IAPB/Loputoo_projekti_haldamise_ajakava.pdf)
 
 ---
+## Järgmine samm
+
+Registreerige ennast lõputöö ainele ja raporteerige iganädalaselt oma juhendaja ja teema otsingutest (kuni leidmiseni).
+
+---
 ## Lingid
 
 [Õppekavaveeb](https://www.ttu.ee/teaduskond/infotehnoloogia-teaduskond/it-tudengile/bakalaureuseope-48/informaatika-27/#)
