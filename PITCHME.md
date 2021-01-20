@@ -48,7 +48,7 @@ Teema sünnib tavaliselt vestlusest võimaliku juhendajaga
 @ul
 - Pakute välja teema/projekti ja täpsustate koostöös juhendajaga
 - Juhendaja antud teema tema uurimisvaldkonnas või projektidest
-- Konsultatsioonid (3 konsultatsiooni neljapäeviti (06.02, 13.02, 20.02) kell 12, ICT-411)
+- Konsultatsioonid (3 konsultatsiooni esmaspäeviti (01.02, 08.02, 15.02) kell 10-11, MS Teamsis, kirjutage enne gert.kanter@taltech.ee)
 @ulend
 
 ---
