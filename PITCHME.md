@@ -36,7 +36,7 @@ Tarkvaraprojekt
 - Osa suuremast projektist
 
 Uurimistöö
-- Eksperimentaalne võrdlus
+- Eksperimentaalne uurimustöö: uudse algoritmi/meetodi/tehnoloogia realiseerimine ja eksperimentaalne võrdlus alternatiivsete lahendustega
 - Teoreetiline uurimus
 
 ---
@@ -54,12 +54,7 @@ Teema sünnib tavaliselt vestlusest võimaliku juhendajaga
 ---
 ## Teemade nimekiri
 
-[Bakalaureusetööde nimekiri](https://livettu-my.sharepoint.com/:w:/g/personal/marko_kaaramees_ttu_ee/EY1MDcSqEl1Mktw5DM-Y-mABjE_WzksfO_zNuFDj3bs8iA)
-
----
-## Juhendajate nimekiri
-
-[Juhendajate nimekiri](https://www.ttu.ee/?id=175012)
+[Bakalaureusetööde nimekiri](https://livettu.sharepoint.com/:w:/s/TTIttajadSSDstaff/EarXP6f225FCoREwVvBHfjcByQbpSTHIA4sjogzCBPT1KA?e=kYIioB)
 
 ---
 ## Hea lõputöö
@@ -125,7 +120,7 @@ Teema sünnib tavaliselt vestlusest võimaliku juhendajaga
 ---
 ## Juhendajatega suhtlemine
 
-- Pidev (kord nädalas / üle nädala, nagu kokku lepitud)
+- Pidev (soovituslikult iga nädal)
 - Jäta juhendajale aega lugemiseks, vastamiseks, mõtlemiseks
 - Jäta endale aega mõtlemiseks, muudatuste sisseviimiseks
 
@@ -169,7 +164,7 @@ Kui juhendajate nimekirjas ei ole huvipakkuvaid teemasid, võib välja pakkuda t
 ---
 ## Ülesandepüstitus
 
-Ülesandepüstituse info on ained.ttu.ee lõputöö aines [näha siin](https://ained.ttu.ee/mod/assign/view.php?id=10388).
+Ülesandepüstituse info on moodle.ttu.ee lõputöö aines [näha siin](https://moodle.taltech.ee/course/view.php?id=31435).
 
 ---
 ## Projektihaldus
@@ -243,14 +238,9 @@ Vastavalt projektile võib olla pisut erinev (sprindid jne), aga üldiselt
 @ulend
 
 ---
-## Tiimiprojektide nimekiri
-
-[Aine ained.ttu.ee-s](https://ained.ttu.ee/course/view.php?id=302)
-
----
 ## Detailne ajakava individuaalse töö jaoks
 
-[Ajakava dokument](https://www.ttu.ee/public/i/infotehnoloogia-teaduskond/Tudengile/IAPB/Loputoo_projekti_haldamise_ajakava.pdf)
+[Ajakava dokument](https://portal-int.taltech.ee/sites/default/files/2020-12/L%C3%B5put%C3%B6%C3%B6%20projekti%20haldamise%20ajakava_0.pdf)
 
 ---
 ## Järgmine samm
@@ -260,11 +250,9 @@ Registreerige ennast lõputöö ainele ja raporteerige iganädalaselt oma juhend
 ---
 ## Lingid
 
-[Õppekavaveeb](https://www.ttu.ee/teaduskond/infotehnoloogia-teaduskond/it-tudengile/bakalaureuseope-48/informaatika-27/#)
+[Õppekavaveeb](https://www.taltech.ee/informaatika-bakalaureus#p11828)
 
-[Teaduskonna lõputööde infotundide materjalid](https://www.ttu.ee/teaduskond/infotehnoloogia-teaduskond/it-tudengile/loputoo-ja-lopetamine-9/infotundide-materjalid-3/)
-
-[Juhend ja mallid on kättesaadavad teaduskonna kodulehel](https://www.ttu.ee/teaduskond/infotehnoloogia-teaduskond/it-tudengile/loputoo-ja-lopetamine-9/loputoo-vormistamine-4/)
+[Juhend ja mallid on kättesaadavad teaduskonna kodulehel](https://www.taltech.ee/lopetajale)
 
 ---
 ## Küsimused?
