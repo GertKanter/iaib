@@ -234,7 +234,7 @@ Vastavalt projektile võib olla pisut erinev (sprindid jne), aga üldiselt
 - Koosolekud ettevõtte või teadusprojekti esindajaga
 - Esitlused ("demo day") esindajale, juhendajale ja lõputööde komisjonile kaks korda semestri jooksul ja lõpus lõpptulemuse esitlus
 - Aruanne (projektile ühine, ca 30-70 lehekülge)
-- Individuaalne kaitsmine (individuaalne hindamine)
+- Individuaalne hindamine
 @ulend
 
 ---
