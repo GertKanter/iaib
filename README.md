@@ -258,6 +258,8 @@ Registreerige ennast lõputöö ainele ja raporteerige iganädalaselt oma juhend
 
 **NB!** Kui olete teema ja juhendaja leidnud, siis on **teie kohustus tagada**, et see oleks Protsessoris olemas ja teie olete seal töö tegijana registreeritud.
 
+Lõputöö ülesandepüstitus peab olema esitatud Moodles **21. veebruaril 2022**!
+
 ---
 ## Lingid
 
