@@ -43,19 +43,23 @@ Lõputöö peab demonstreerima, et suudate pakkuda mingile päris probleemile ta
 ## Teema ja juhendaja leidmine
 
 ---
-## Teema sünnib tavaliselt vestlusest võimaliku juhendajaga
+## Lõputööde teemade infosüsteem "Protsessor"
+
+[https://cs.ttu.ee/services/protsessor/](https://cs.ttu.ee/services/protsessor/)
+
+---
+## Kui sobivat teemat seal praegu veel ei ole...
+
+---
+## Uued lõputöö teemad sünnivad vestlusest võimaliku juhendajaga
 
 - Pakute välja teema/projekti ja täpsustate koostöös juhendajaga
 - Juhendaja antud teema tema uurimisvaldkonnas või projektidest
 
 ---
-## Konsultatsioonid
-3 konsultatsiooni esmaspäeviti (01.02, 08.02, 15.02) kell 10-11, MS Teamsis, vajalik enne teatada e-mailiga gert.kanter@taltech.ee)
+## Kui ei leia teemat/juhendajat
 
----
-## Teemade nimekiri
-
-[Bakalaureusetööde nimekiri](https://livettu.sharepoint.com/:w:/s/TTIttajadSSDstaff/EarXP6f225FCoREwVvBHfjcByQbpSTHIA4sjogzCBPT1KA?e=kYIioB)
+3 konsultatsiooni esmaspäeviti (31.01, 07.02, 14.02) kell 10-11, MS Teamsis, vajalik enne teatada e-mailiga gert.kanter@taltech.ee)
 
 ---
 ## Hea lõputöö
@@ -63,19 +67,20 @@ Lõputöö peab demonstreerima, et suudate pakkuda mingile päris probleemile ta
 - Lahendab mingi selgelt püstitatud probleemi
 - Probleemipüstitus on põhjendatud, see on mingil otstarbel vajalik
 - Toetutakse adekvaatsele kirjandusele ja antakse ülevaade taustast
-- Lahenduseni jõutakse metoodiliselt. Praktilises töös selgitatakse selle arhitektuuri, komponente, tehnoloogilisi valikuid  
+- Lahenduseni jõutakse metoodiliselt. Praktilises töös selgitatakse ja põhjendatakse selle arhitektuuri, komponente, tehnoloogilisi valikuid  
 
 ---
 ## Hea lõputöö...
 
-- Autori panus on selgelt tuvastatav, kui tegemist on osaga suuremast probleemist
-- Tulemusi on adekvaatselt valideeritud-põhjendatud, on näidatud mil määral on eesmärgid saavutatud
+- Autori panus on selgelt tuvastatav, eriti kui tegemist on osaga suuremast probleemist
+- Tulemusi on adekvaatselt valideeritud ja põhjendatud, selgelt on näidatud mil määral eesmärgid tegelikult saavutatud on
 - Töö on hästi struktureeritud ja selle osad on omavahel tasakaalus
+- Töö on korrektselt vormistatud ja järgib korrektset akadeemilist väljenduslaadi.
 
 ---
 ## Suurepärane töö
 
-- silmapaistev ja eriti põhjalik aine tundmine 
+- silmapaistev ja eriti põhjalik teema tundmine 
 - ambitsioonika ülesande põhjendatud ja viimistletud lahendamine
 - vaba ja loov teoreetiliste teadmiste ja praktiliste oskuste rakendamise oskus
 - ulatuslik iseseisev töö
@@ -116,20 +121,27 @@ Lõputöö peab demonstreerima, et suudate pakkuda mingile päris probleemile ta
 - Jäta endale aega mõtlemiseks, muudatuste sisseviimiseks
 
 ---
-## Protsess
+## Tegevuskava
 
 - Juhendaja + teema
-- Ülesandepüstitus
-- Ülesandepüstituse tagasiside
-- Ettekanne + ülesandepüstituse tagasiside arutelu
-- Lõputöö dokument
-- Kaitsmine
+- Ülesandepüstitus (5 nädal)
+- Ülesandepüstituse tagasiside (7 nädal)
+- Ettekanne + ülesandepüstituse tagasiside arutelu (8-9 nädalal)
+- Lõputöö dokumendi vormistamine
+- Esitamine ja eelkaitsmine (16 nädal)
+- Lõplik esitamine (18 nädal)
+- Kaitsmine (20 nädal)
 
 ---
+## Kui teemat ei leia Protsessorist...
+
+Võtta ühendust otse potentsiaalsete juhendajatega meilitsi.
+
 Juhendajaga ühenduse võtmisel kindlasti panna kaasa taustainfot enda kohta.
 
 ---
 ## Halb kiri
+
 ---
 
 Tere,
@@ -142,19 +154,19 @@ Kas on mõni teema?
 
 Tere, prof Vain!
 
-Minu nimi on Töökas Tudeng ja ma otsin informaatika bakalaureusetöö teemat. Lõputööde teemavaldkondade leheküljel on märgitud, et Teil on välja pakkuda teema "Simulatsiooni koostamine nutika kuuelamu demonstraatori visualiseerimiseks". See teema pakub mulle huvi, sest tahaks ise ka kuu peale elama minna.
+Minu nimi on Töökas Tudeng ja ma otsin informaatika bakalaureusetöö teemat. Tean, et tegelete formaalsete meetoditega ja mind see valdkond väga huvitab.
 
-Mul on kogemusi selles ja teises programmeerimiskeeles ja tehnoloogias ning mulle pakub väga suurt huvi simulaatorite füüsikamootorite ehitus.
+Mul on kogemusi selles ja teises programmeerimiskeeles ja tehnoloogias ning mulle pakub väga suurt huvi simulaatorite füüsikamootorid.
 
 ---
 ## Teema
 
-Kui juhendajate nimekirjas ei ole huvipakkuvaid teemasid, võib välja pakkuda teema ka ise antud valdkonna juhendajale.
+Kui juhendajatel ei ole huvipakkuvaid teemasid, võib välja pakkuda teema ka ise antud valdkonna juhendajale.
 
 ---
 ## Ülesandepüstitus
 
-Ülesandepüstituse info on moodle.ttu.ee lõputöö aines [näha siin](https://moodle.taltech.ee/course/view.php?id=31435).
+Ülesandepüstituse info on moodle.ttu.ee lõputöö aines ["IAIB bakalaureusetöö (juuni 2022)"](https://moodle.taltech.ee/course/view.php?id=31861).
 
 ---
 ## Projektihaldus
@@ -181,12 +193,17 @@ Projekt "iaib"
 # Tiimiprojekt
 
 ---
+## Aine Moodles
+
+["IAIB tiimiprojekti lõputöö (juuni 2022)"](https://moodle.taltech.ee/course/view.php?id=31561)
+
+---
 ## Üldnõuded
 
 - Kolm liiget
 - Töömaht 9 EAP (234 astronoomilist tundi) iga liikme kohta
 - Semestri vältel tihe raporteerimine
-- Teemad ülikoolist (teadusprojektid, õppetööga seotud) või tööstusest
+- Teemad ülikoolist (teadusprojektid või õppetöö arendusega seotud) või tööstusest
 
 ---
 ## Projektid
@@ -212,27 +229,43 @@ Vastavalt projektile võib olla pisut erinev (sprindid jne), aga üldiselt
 ---
 
 - Koosolekud juhendajaga iga nädal (kohustuslikud, juhendaja raporteerib omakorda lõpus hindamiskomisjonile)
-- Koosolekud ettevõtte või teadusprojekti esindajaga
-- Esitlused ("demo day") esindajale, juhendajale ja lõputööde komisjonile kaks korda semestri jooksul ja lõpus lõpptulemuse esitlus
+- Koosolekud tellija esindajaga
+- Esitlused ("demo day") esindajale, juhendajale ja lõputööde komisjonile kaks korda semestri jooksul (5 nädal ja 11 nädal), eelkaitsmine (16 nädal) ja lõpptulemuse esitlus kaitsmisel
 - Aruanne (projektile ühine, ca 30-70 lehekülge)
 - Individuaalne hindamine
 
 ---
+## Automaatkontroll Gitlabis
+
+Gitlabis jälgib lõputööde progressi automatiseeritud skript.
+
+Analüüsist saadud andmed on täiendav sisend komisjonile.
+
+---
+## Kui tahate tiimiprojekti teha, aga Protsessoris pole sobivat või juba täis...
+
+Kirjutage potentsiaalsele juhendajale ja arutage, kas tal on tiimiprojekti pakkuda. Võib-olla on, aga pole veel Protsessorisse lisatud.
+
+---
 ## Detailne ajakava individuaalse töö jaoks
 
-[Ajakava dokument](https://portal-int.taltech.ee/sites/default/files/2020-12/L%C3%B5put%C3%B6%C3%B6%20projekti%20haldamise%20ajakava_0.pdf)
+[Ajakava dokument](https://haldus.taltech.ee/sites/default/files/2022-01/L%C3%B5put%C3%B6%C3%B6%20projekti%20haldamise%20ajakava.pdf)
 
 ---
 ## Järgmine samm
 
 Registreerige ennast lõputöö ainele ja raporteerige iganädalaselt oma juhendaja ja teema otsingutest (kuni leidmiseni).
 
+**NB!** Kui olete teema ja juhendaja leidnud, siis on **teie kohustus tagada**, et see oleks Protsessoris olemas ja teie olete seal töö tegijana registreeritud.
+
 ---
 ## Lingid
 
-[Õppekavaveeb](https://www.taltech.ee/informaatika-bakalaureus#p11828)
+[Õppekavaveebis lõputöö info](https://www.taltech.ee/informaatika-bakalaureus#p11828)
 
 [Juhend ja mallid on kättesaadavad teaduskonna kodulehel](https://www.taltech.ee/lopetajale)
+
+[LaTeX mall](https://gitlab.cs.ttu.ee/iaib/thesis-tex)
 
 ---
 ## Küsimused?
