@@ -133,6 +133,14 @@ Lõputöö peab demonstreerima, et suudate pakkuda mingile päris probleemile ta
 - Kaitsmine (20 nädal)
 
 ---
+## Eelkaitsmine
+
+- Eelkaitsmise eesmärk on tagada lõputööde võimalikult kõrge kvaliteet
+- Eelkaitsmise tähtajaks tuleb esitada valmis töö
+- Eelkaitsmisel esineb kaitsja kaitsekõnega, millele järgneb tagasiside/diskussioon
+- Diskussiooni osa on konstruktiivne
+
+---
 ## Kui teemat ei leia Protsessorist...
 
 Võtta ühendust otse potentsiaalsete juhendajatega meilitsi.
