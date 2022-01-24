@@ -156,7 +156,7 @@ Tere, prof Vain!
 
 Minu nimi on Töökas Tudeng ja ma otsin informaatika bakalaureusetöö teemat. Tean, et tegelete formaalsete meetoditega ja mind see valdkond väga huvitab.
 
-Mul on kogemusi selles ja teises programmeerimiskeeles ja tehnoloogias ning mulle pakub väga suurt huvi simulaatorite füüsikamootorid.
+Mul on kogemusi selles ja teises programmeerimiskeeles ja tehnoloogias ning mulle pakuvad väga suurt huvi simulaatorite füüsikamootorid.
 
 ---
 ## Teema
