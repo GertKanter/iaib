@@ -40,6 +40,26 @@ Lõputöö peab demonstreerima, et suudate pakkuda mingile päris probleemile ta
 - Teoreetiline uurimus
 
 ---
+## Tegevuskava
+
+- Juhendaja + teema
+- Ülesandepüstitus (5 nädal)
+- Ülesandepüstituse tagasiside (7 nädal)
+- Ettekanne + ülesandepüstituse tagasiside arutelu (8-9 nädalal)
+- Lõputöö dokumendi vormistamine
+- Esitamine ja eelkaitsmine (16 nädal)
+- Lõplik esitamine (18 nädal)
+- Kaitsmine (20 nädal)
+
+---
+## Eelkaitsmine
+
+- Eelkaitsmise eesmärk on tagada lõputööde võimalikult kõrge kvaliteet
+- Eelkaitsmise tähtajaks tuleb esitada valmis töö
+- Eelkaitsmisel esineb kaitsja kaitsekõnega, millele järgneb tagasiside/diskussioon
+- Diskussiooni osa on konstruktiivne
+
+---
 ## Teema ja juhendaja leidmine
 
 ---
@@ -119,26 +139,6 @@ Lõputöö peab demonstreerima, et suudate pakkuda mingile päris probleemile ta
 - Pidev (soovituslikult iga nädal)
 - Jäta juhendajale aega lugemiseks, vastamiseks, mõtlemiseks
 - Jäta endale aega mõtlemiseks, muudatuste sisseviimiseks
-
----
-## Tegevuskava
-
-- Juhendaja + teema
-- Ülesandepüstitus (5 nädal)
-- Ülesandepüstituse tagasiside (7 nädal)
-- Ettekanne + ülesandepüstituse tagasiside arutelu (8-9 nädalal)
-- Lõputöö dokumendi vormistamine
-- Esitamine ja eelkaitsmine (16 nädal)
-- Lõplik esitamine (18 nädal)
-- Kaitsmine (20 nädal)
-
----
-## Eelkaitsmine
-
-- Eelkaitsmise eesmärk on tagada lõputööde võimalikult kõrge kvaliteet
-- Eelkaitsmise tähtajaks tuleb esitada valmis töö
-- Eelkaitsmisel esineb kaitsja kaitsekõnega, millele järgneb tagasiside/diskussioon
-- Diskussiooni osa on konstruktiivne
 
 ---
 ## Kui teemat ei leia Protsessorist...
