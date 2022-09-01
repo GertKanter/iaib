@@ -43,13 +43,13 @@ Lõputöö peab demonstreerima, et suudate pakkuda mingile päris probleemile ta
 ## Tegevuskava
 
 - Juhendaja + teema
-- Ülesandepüstitus (5 nädal)
-- Ülesandepüstituse tagasiside (7 nädal)
-- Ettekanne + ülesandepüstituse tagasiside arutelu (8-9 nädalal)
+- Ülesandepüstitus
+- Ülesandepüstituse tagasiside
+- (Ülesandepüstituse tagasiside arutelu)
 - Lõputöö dokumendi vormistamine
-- Esitamine ja eelkaitsmine (16 nädal)
-- Lõplik esitamine (18 nädal)
-- Kaitsmine (20 nädal)
+- Esitamine ja eelkaitsmine
+- Korrigeeritud dokumendi esitamine
+- Kaitsmine (19 nädal)
 
 ---
 ## Eelkaitsmine
@@ -77,9 +77,9 @@ Lõputöö peab demonstreerima, et suudate pakkuda mingile päris probleemile ta
 - Juhendaja antud teema tema uurimisvaldkonnas või projektidest
 
 ---
-## Kui ei leia teemat/juhendajat
+## Kui ei õnnestu teemat/juhendajat leida
 
-3 konsultatsiooni esmaspäeviti (31.01, 07.02, 14.02) kell 10-11, MS Teamsis, vajalik enne teatada e-mailiga gert.kanter@taltech.ee)
+Kirjutada e-mail gert.kanter@taltech.ee
 
 ---
 ## Hea lõputöö
@@ -201,11 +201,6 @@ Projekt "iaib"
 # Tiimiprojekt
 
 ---
-## Aine Moodles
-
-["IAIB tiimiprojekti lõputöö (juuni 2022)"](https://moodle.taltech.ee/course/view.php?id=31561)
-
----
 ## Üldnõuded
 
 - Kolm liiget
@@ -238,8 +233,8 @@ Vastavalt projektile võib olla pisut erinev (sprindid jne), aga üldiselt
 
 - Koosolekud juhendajaga iga nädal (kohustuslikud, juhendaja raporteerib omakorda lõpus hindamiskomisjonile)
 - Koosolekud tellija esindajaga
-- Esitlused ("demo day") esindajale, juhendajale ja lõputööde komisjonile kaks korda semestri jooksul (5 nädal ja 11 nädal), eelkaitsmine (16 nädal) ja lõpptulemuse esitlus kaitsmisel
-- Aruanne (projektile ühine, ca 30-70 lehekülge)
+- Esitlused ("demo day") esindajale, juhendajale ja lõputööde komisjonile kaks korda semestri jooksul, eelkaitsmine ja lõpptulemuse esitlus kaitsmisel
+- Ühine lõputöö dokument
 - Individuaalne hindamine
 
 ---
@@ -258,15 +253,6 @@ Kirjutage potentsiaalsele juhendajale ja arutage, kas tal on tiimiprojekti pakku
 ## Detailne ajakava individuaalse töö jaoks
 
 [Ajakava dokument](https://haldus.taltech.ee/sites/default/files/2022-01/L%C3%B5put%C3%B6%C3%B6%20projekti%20haldamise%20ajakava.pdf)
-
----
-## Järgmine samm
-
-Registreerige ennast lõputöö ainele ja raporteerige iganädalaselt oma juhendaja ja teema otsingutest (kuni leidmiseni).
-
-**NB!** Kui olete teema ja juhendaja leidnud, siis on **teie kohustus tagada**, et see oleks Protsessoris olemas ja teie olete seal töö tegijana registreeritud.
-
-Lõputöö ülesandepüstitus peab olema esitatud Moodles **21. veebruaril 2022**!
 
 ---
 ## Lingid
