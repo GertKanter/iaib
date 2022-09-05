@@ -138,4 +138,8 @@ https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes
 
 https://taltech.ee/lopetajale
 ---
+## Protsessor
+
+https://cs.ttu.ee/services/protsessor
+---
 ## Küsimused?
