@@ -148,6 +148,6 @@ https://taltech.ee/lopetajale
 ---
 ## Protsessor
 
-https://cs.ttu.ee/services/protsessor
+https://cs.taltech.ee/services/protsessor
 ---
 ## Küsimused?
