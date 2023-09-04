@@ -40,7 +40,7 @@ Seminari lõpuks on läbijal:
 - Alustatud lõputööga ja projektihaldusega
 ---
 ## Seminari sisu
-- Komisjoni liikmete ettekanded
+- Komisjoni liikmete ettekanded (videod)
 - Varasemalt kaitstud lõputööde lugemine ja analüüs (individuaalselt ja grupis)
 - Ülesandepüstituse koostamine (tagasiside komisjonilt)
 - Lõputöö projektiga alustamine (25 töötundi) ja raporteerimine Gitlabis
@@ -134,7 +134,7 @@ Informaatika bakalaureusetöö vormistamine toimub LaTeX-iga.
 
 LaTeX hääldatakse "la-tekh" või "la-teh".
 
-(vt nt https://www.youtube.com/watch?v=8HuwiBPLV3A).
+(häälduse näide https://www.youtube.com/watch?v=8HuwiBPLV3A).
 ---
 Kasutada saab Overleaf-i või võib ise kompileerida.
 ---
