@@ -92,7 +92,7 @@ Aine sooritamiseks (hinne "1"):
 ---
 Seminari aruannet **ei pea** esitama kui olete kogunud seminaris aktiivsuspunkti iga alljärgneva tegevuse eest:
 - **Teie** ülesandepüstitusele tagasiside küsimine
-- Seminaris grupitöödes osalemine
+- Seminaris **grupitöödes** osalemine
 - **Teie** esitatud loetud töö analüüsi arutelu seminaris
 - **Teie** Gitlabi lõputöö projektihalduse esitlemine ja tagasiside küsimine
 ---
