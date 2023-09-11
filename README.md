@@ -45,11 +45,11 @@ Lõputöö peab demonstreerima, et suudate pakkuda mingile päris probleemile ta
 - Juhendaja + teema
 - Ülesandepüstitus
 - Ülesandepüstituse tagasiside
-- (Ülesandepüstituse tagasiside arutelu)
+- Vaheesitlus
 - Lõputöö dokumendi vormistamine
 - Esitamine ja eelkaitsmine
 - Korrigeeritud dokumendi esitamine
-- Kaitsmine (19 nädal)
+- Kaitsmine
 
 ---
 ## Eelkaitsmine
@@ -65,7 +65,7 @@ Lõputöö peab demonstreerima, et suudate pakkuda mingile päris probleemile ta
 ---
 ## Lõputööde teemade infosüsteem "Protsessor"
 
-[https://cs.ttu.ee/services/protsessor/](https://cs.ttu.ee/services/protsessor/)
+[https://cs.taltech.ee/protsessor/](https://cs.taltech.ee/protsessor/)
 
 ---
 ## Kui sobivat teemat seal praegu veel ei ole...
@@ -206,7 +206,7 @@ Projekt "iaib"
 - Kolm liiget
 - Töömaht 9 EAP (234 astronoomilist tundi) iga liikme kohta
 - Semestri vältel tihe raporteerimine
-- Teemad ülikoolist (teadusprojektid või õppetöö arendusega seotud) või tööstusest
+- Teemad ülikoolist (teadusprojektid või õppetöö arendusega seotud) või tööstusest (peab olema juriidilisest isikust klient)
 
 ---
 ## Projektid
@@ -233,7 +233,7 @@ Vastavalt projektile võib olla pisut erinev (sprindid jne), aga üldiselt
 
 - Koosolekud juhendajaga iga nädal (kohustuslikud, juhendaja raporteerib omakorda lõpus hindamiskomisjonile)
 - Koosolekud tellija esindajaga
-- Esitlused ("demo day") esindajale, juhendajale ja lõputööde komisjonile kaks korda semestri jooksul, eelkaitsmine ja lõpptulemuse esitlus kaitsmisel
+- Esitlused ("demo day") esindajale, juhendajale ja lõputööde komisjonile ühe korra semestri jooksul, eelkaitsmine ja lõpptulemuse esitlus kaitsmisel
 - Ühine lõputöö dokument
 - Individuaalne hindamine
 
@@ -250,18 +250,13 @@ Analüüsist saadud andmed on täiendav sisend komisjonile.
 Kirjutage potentsiaalsele juhendajale ja arutage, kas tal on tiimiprojekti pakkuda. Võib-olla on, aga pole veel Protsessorisse lisatud.
 
 ---
-## Detailne ajakava individuaalse töö jaoks
-
-[Ajakava dokument](https://haldus.taltech.ee/sites/default/files/2022-01/L%C3%B5put%C3%B6%C3%B6%20projekti%20haldamise%20ajakava.pdf)
-
----
 ## Lingid
 
 [Õppekavaveebis lõputöö info](https://www.taltech.ee/informaatika-bakalaureus#p11828)
 
 [Juhend ja mallid on kättesaadavad teaduskonna kodulehel](https://www.taltech.ee/lopetajale)
 
-[LaTeX mall](https://gitlab.cs.ttu.ee/iaib/thesis-tex)
+[LaTeX mall](https://gitlab.cs.taltech.ee/iaib/thesis-tex)
 
 ---
 ## Küsimused?
