@@ -17,6 +17,11 @@ https://github.com/GertKanter/iaib
 Lõputöö peab demonstreerima, et suudate pakkuda mingile päris probleemile tarkvaralist lahendust.
 
 ---
+## Lõputöö eesmärgid õppekavast
+
+Demonstreerida ja rakendada omandatud teadmisi tarkvaralise süsteemi kavandamisel, rakendamisel, lahenduse põhjendamisel, analüüsimisel, dokumenteerimisel ja esitlemisel.
+
+---
 ## Lõputöö õpiväljundid õppekavast
 
 - oskab näha ja kirjeldada probleemi, mida saab tarkvaraliste vahenditega lahendada; 
@@ -37,18 +42,18 @@ Lõputöö peab demonstreerima, et suudate pakkuda mingile päris probleemile ta
 ## Uurimistöö
 
 - Eksperimentaalne uurimustöö: uudse algoritmi/meetodi/tehnoloogia realiseerimine ja eksperimentaalne võrdlus alternatiivsete lahendustega
-- Teoreetiline uurimus
+- Teaduslik uurimustöö, teoreetiline uurimus: tulemuseks peaks olema uus teadmine, nt teadusartikkel
 
 ---
-## Tegevuskava
+## Lõputöö tegevuskava
 
-- Juhendaja + teema
-- Ülesandepüstitus
-- Ülesandepüstituse tagasiside
-- Vaheesitlus
+- Juhendaja + teema / Teema + juhendaja
+- Ülesandepüstituse esitamine (4. õppenädala esmaspäev)
+- Ülesandepüstituse tagasiside saamine (5. õppenädalal)
+- Vaheesitlus (8. nädalal)
 - Lõputöö dokumendi vormistamine
-- Esitamine ja eelkaitsmine
-- Korrigeeritud dokumendi esitamine
+- Lõputöö esitamine
+- Eelkaitsmine
 - Kaitsmine
 
 ---
@@ -57,7 +62,7 @@ Lõputöö peab demonstreerima, et suudate pakkuda mingile päris probleemile ta
 - Eelkaitsmise eesmärk on tagada lõputööde võimalikult kõrge kvaliteet
 - Eelkaitsmise tähtajaks tuleb esitada valmis töö
 - Eelkaitsmisel esineb kaitsja kaitsekõnega, millele järgneb tagasiside/diskussioon
-- Diskussiooni osa on konstruktiivne
+- Eelkaitsmisel võib komisjon anda võimaluse tööd täiendada, et lõppkaitsmisele esitada parim võimalik töö
 
 ---
 ## Teema ja juhendaja leidmine
@@ -169,12 +174,12 @@ Mul on kogemusi selles ja teises programmeerimiskeeles ja tehnoloogias ning mull
 ---
 ## Teema
 
-Kui juhendajatel ei ole huvipakkuvaid teemasid, võib välja pakkuda teema ka ise antud valdkonna juhendajale.
+Kui juhendajatel ei ole huvipakkuvaid teemasid, võib välja pakkuda teema ka ise antud valdkonna juhendajale otse või panna teema ise üles Protsessorisse.
 
 ---
 ## Ülesandepüstitus
 
-Ülesandepüstituse info on moodle.ttu.ee lõputöö aines ["IAIB bakalaureusetöö (juuni 2022)"](https://moodle.taltech.ee/course/view.php?id=31861).
+Ülesandepüstituse info on moodle.ttu.ee lõputöö aines ["ITI0218 Bakalaureusetöö seminar (2024)"](https://moodle.taltech.ee/mod/page/view.php?id=629171).
 
 ---
 ## Projektihaldus
@@ -203,8 +208,8 @@ Projekt "iaib"
 ---
 ## Üldnõuded
 
-- Kolm liiget
-- Töömaht 9 EAP (234 astronoomilist tundi) iga liikme kohta
+- Kolm liiget (erandid piisavalt põhjendatult võimalikud)
+- Töömaht 12 EAP (312 astronoomilist tundi) iga liikme kohta
 - Semestri vältel tihe raporteerimine
 - Teemad ülikoolist (teadusprojektid või õppetöö arendusega seotud) või tööstusest (peab olema juriidilisest isikust klient)
 
@@ -212,12 +217,12 @@ Projekt "iaib"
 ## Projektid
 
 Üldine protseduur
-- Analüüsite projektipakkumisi
+- Analüüsite projektipakkumisi või suhtlete ise juhendajate/klientidega
 - Komplekteerite meeskonna
-- Kandideerite projekti(de)le
+- Kandideerite projekti(de)le või esitate uue projekti
 - Kandideerimisprotsess (vestlus vms)
 - Valituks osutumisel, hakkate projekti tegema
-- Töö tegemine ettevõttes või ülikoolis (2 päeva nädalas esimesed kolm kuud, lõpufaasis saab vastavalt vajadusele ringi korraldada)
+- Töö tegemine ettevõttes või ülikoolis (2 tööpäeva nädalas esimesed kolm kuud (2 * 3 * 4 * 8 = 192 töötundi, lõpufaasis saab vastavalt vajadusele ringi korraldada)
 
 ---
 ## Tööprotsess
@@ -225,7 +230,7 @@ Projekt "iaib"
 Vastavalt projektile võib olla pisut erinev (sprindid jne), aga üldiselt
 - Projektihaldus
 - Aja jälgimine (palju iga ülesande peale aega kulus, nt Toggl)
-- Agiilne arendus - iteratiivne, sprintidel põhinev
+- Välearenduse meetod - iteratiivne, sprintidel põhinev
 - Töötav kood/tulemus iga sprindi lõpus
 - Esitlused esindajale peale igat sprinti
 
@@ -257,6 +262,13 @@ Kirjutage potentsiaalsele juhendajale ja arutage, kas tal on tiimiprojekti pakku
 [Juhend ja mallid on kättesaadavad teaduskonna kodulehel](https://www.taltech.ee/lopetajale)
 
 [LaTeX mall](https://gitlab.cs.taltech.ee/iaib/thesis-tex)
+
+---
+## Küsitlus lõpetamisfaasis tudengitele
+
+Palun täitke vorm: [https://forms.gle/Ydh5nEtw29apwb8r7](https://forms.gle/Ydh5nEtw29apwb8r7)
+
+Selle vormi täitmine aitab meil teile tuge pakkuda, kui me teame, kes aktiivsed on.
 
 ---
 ## Küsimused?
