@@ -31,70 +31,63 @@ gert.kanter@taltech.ee
 <!-- .element.table: style="font-size:60%;" -->
 ---
 ## Seminari aine Moodles
-https://moodle.taltech.ee/course/view.php?id=32994
+https://moodle.taltech.ee/course/view.php?id=33833
 ---
 ## Seminari eesmärk
 Seminari lõpuks on läbijal:
-- Arusaam, mis on informaatika bakalaureusetöö ja millised on ootused tööle
-- Komisjoni tagasisidega lõputöö ülesandepüstitus
+- Selge arusaam, mis on informaatika bakalaureusetöö ja millised on ootused tööle
 - Alustatud lõputööga ja projektihaldusega
+
 ---
 ## Seminari sisu
 - Komisjoni liikmete ettekanded (videod)
-- Varasemalt kaitstud lõputööde lugemine ja analüüs (individuaalselt ja grupis)
-- Ülesandepüstituse koostamine (tagasiside komisjonilt)
-- Lõputöö projektiga alustamine (25 töötundi) ja raporteerimine Gitlabis
+- Varasemalt kaitstud lõputööde lugemine, analüüs ja hindamine (individuaalselt ja grupis)
+- Video tegemine kaitstud lõputöö analüüsi kohta ja üksteise videote hindamine
+- Harjutusülesandepüstituse ja üksteiste tööde hindamine
+- Lõputöö ülesandepüstituse koostamine
+- Lõputöö projektiga alustamine ja raporteerimine Gitlabis (kokku 30 töötundi)
+
 ---
 ## Seminari korraldus (sügissemester)
 ---
-| Nädal | Tähtaeg             | Seminaris                                                      |
-| ----- | ------------------- | -------------------------------------------------------------- |
-| 1     | -                   | Sissejuhatus                                                   |
-| 2     | Aruanne 1 töö kohta | Varasemalt esitatud tööde analüüs                              |
-| 3     | -                   | Varasemalt esitatud tööde analüüs                              |
-| 4     | Aruanne 2 töö kohta | Varasemalt esitatud tööde analüüs                              |
-| 5     | -                   | Varasemalt esitatud tööde analüüs                              |
+| Nädal | Tähtaeg                             | Seminaris                                  |
+| ----- | ----------------------------------- | ------------------------------------------ |
+| 1     | -                                   | Sissejuhatus                               |
+| 2     | Aruanne 1 töö kohta                 | Varasemalt kaitstud töö analüüs grupitööna |
+| 3     | -                                   | Varasemalt kaitstud töö analüüs grupitööna |
+| 4     | Aruanne 2 töö kohta                 | Varasemalt kaitstud töö analüüs grupitööna |
+| 5     | Harjutusülesandepüstituse esitamine | Varasemalt kaitstud töö analüüs grupitööna |
 <!-- .element.table: style="font-size:70%;" -->
 ---
-| Nädal | Tähtaeg                                    | Seminaris                                                       |
-| ----- | ------------------------------------------ | --------------------------------------------------------------- |
-| 6     | Aruanne 3 töö kohta                        | Analüüs ja arutelud loetud tööde ja ülesandepüstituste teemadel |
-| 7     | -                                          | Analüüs ja arutelud loetud tööde ja ülesandepüstituste teemadel |
-| 8     | Aruanne 4 töö kohta                        | Analüüs ja arutelud loetud tööde ja ülesandepüstituste teemadel |
-| 9     | Ülesandepüstituse esitamine (.tex ja .pdf) | Analüüs ja arutelud loetud tööde ja ülesandepüstituste teemadel |
-| 10    | *[tagasiside saamine komisjonilt]*         | Analüüs ja arutelud loetud tööde ja ülesandepüstituste teemadel |
+| Nädal | Tähtaeg                                       | Seminaris                            |
+| ----- | --------------------------------------------- | ------------------------------------ |
+| 6     | Aruanne 3 töö kohta                           | Harjutusülesandepüstituste kaitsmine |
+| 7     | Üksteise harjutusülesandepüstituste hindamine | Harjutusülesandepüstituste kaitsmine |
+| 8     | Analüüsitud töö video esitamine               | Harjutusülesandepüstituste kaitsmine |
+| 9     | -                                             | Küsimustele vastamine, grupitöö      |
+| 10    | Üksteise analüüsitud tööde videote hindamine  | Küsimustele vastamine, grupitöö      |
 <!-- .element.table: style="font-size:70%;" -->
 ---
-| Nädal | Tähtaeg                                | Seminaris                                                                                          |
-| ----- | -------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| 11    | Täiendatud ülesandepüstituse esitamine | Analüüs ja arutelud loetud tööde ja ülesandepüstituste teemadel                                    |
-| 12    | *[tagasiside saamine komisjonilt]*     | **Gitlabi lõputööprojekti halduspõhimõtete tutvustamine ja lõplike ülesandepüstituste ettekanded** |
-| 13    | Projektihaldus Gitlabis                | **Lõplike ülesandepüstituste ettekanded**                                                          |
-| 14    | Projektihaldus Gitlabis                | **Lõplike ülesandepüstituste ettekanded**                                                          |
-| 15    | Projektihaldus Gitlabis                | Gitlabi projektihalduse analüüs                                                                    |
-| 16    | Projektihaldus Gitlabis                | Gitlabi projektihalduse analüüs                                                                    |
+| Nädal | Tähtaeg                                    | Seminaris                       |
+| ----- | ------------------------------------------ | ------------------------------- |
+| 11    | -                                          | Küsimustele vastamine, grupitöö |
+| 12    | Ülesandepüstituse esitamine (.tex ja .pdf) | Küsimustele vastamine, grupitöö |
+| 13    | -                                          | Küsimustele vastamine, grupitöö |
+| 14    | -                                          | Küsimustele vastamine, grupitöö |
+| 15    | -                                          | Küsimustele vastamine, grupitöö |
+| 16    | (Toimub projektihalduse hindamine)         | Küsimustele vastamine, grupitöö |
 <!-- .element.table: style="font-size:70%;" -->
 ---
 ## Seminari hindamine
-Aine sooritamiseks (hinne "1"):
-- esitada (täiendatud) ülesandepüstitus
-- esitleda ülesandepüstitust seminaris
----
-## Hinne >1
-- +1 saab 2 lõputöö lugemise ja aruande esitamise eest
-- +1 saab 2 lõputöö lugemise ja aruande esitamise eest (**kokku 4 tööd**)
-- +1 saab seminarides grupitöödes osalemise eest
-- +1 saab 25h lõputööga tegelemise eest ja selle korrektse raporteerimise eest Gitlabis (**kokku 25 tundi**)
----
-## Seminari aruanne
-- Kõrgemale hindele kui "1" kvalifitseerumiseks on vaja esitada seminari aruanne.
-- Aruanne koosneb kõikide loetud tööde omavahelisest võrdlusest ja üldistavast analüüsist ning Gitlabis tehtud projektihalduse analüüsist (tehtud vigade analüüs, mida muudetakse kevadsemestriks jms).
----
-Seminari aruannet **ei pea** esitama kui olete kogunud seminaris aktiivsuspunkti iga alljärgneva tegevuse eest:
-- **Teie** ülesandepüstitusele tagasiside küsimine
-- Seminaris **grupitöödes** osalemine
-- **Teie** esitatud loetud töö analüüsi arutelu seminaris
-- **Teie** Gitlabi lõputöö projektihalduse esitlemine ja tagasiside küsimine
+| Tegevus                  | Punktid |
+| ------------------------ | ------- |
+| Harjutusülesandepüstitus | 11      |
+| Ülesandepüstitus         | 40      |
+| Tööde analüüs (3x)       | 15      |
+| Töö analüüsi video       | 10      |
+| Grupitööd (12x)          | 24      |
+| **Kokku**                | 100     |
+
 ---
 ## Kevadsemestri korraldus
 ---
@@ -118,14 +111,14 @@ Seminari aruannet **ei pea** esitama kui olete kogunud seminaris aktiivsuspunkti
 | 12     | (vajadusel lisavaheesitlused)         | -                      |
 <!-- .element.table: style="font-size:70%;" -->
 ---
-| Nädal  | Tegevus          | Tähtpunkt                             |
-| ------ | ---------------- | ------------------------------------- |
-| 13     | Lõputöö sisulise osaga ja dokumendiga tegelemine | -                                     |
-| 14     | Lõputöö sisulise osaga ja dokumendiga tegelemine | -                                     |
-| 15     | Lõputöö dokumendiga tegelemine                   | -                                     |
-| 16     | Lõputöö dokumendiga tegelemine                   | **Lõputöö esitamine**                 |
-| 17     | **Eelkaitsmine**                                 | -                                     |
-| 18     | -                                                | **Korrektuuridega lõputöö esitamine** |
+| Nädal  | Tegevus                                          | Tähtpunkt                                        |
+| ------ | ------------------------------------------------ | ------------------------------------------------ |
+| 13     | Lõputöö sisulise osaga ja dokumendiga tegelemine | -                                                |
+| 14     | Lõputöö sisulise osaga ja dokumendiga tegelemine | -                                                |
+| 15     | Lõputöö dokumendiga tegelemine                   | -                                                |
+| 16     | Lõputöö dokumendiga tegelemine                   | **Lõputöö esitamine**                            |
+| 17     | **Eelkaitsmine**                                 | -                                                |
+| 18     | -                                                | **Loa korral korrektuuridega lõputöö esitamine** |
 | 19     | **Kaitsmine**                                    | -                                     |
 <!-- .element.table: style="font-size:70%;" -->
 ---
