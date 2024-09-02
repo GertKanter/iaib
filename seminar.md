@@ -91,24 +91,24 @@ Seminari lõpuks on läbijal:
 ---
 ## Kevadsemestri korraldus
 ---
-| Nädal | Tegevus                                                              | Tähtpunkt                                                   |
-| ----- | -------------------------------------------------------------------- | ----------------------------------------------------------- |
-| 1     | Lõputöö sisulise osaga tegelemine (või ülesandeüstituse koostamine)  | -                                                           |
-| 2     | Lõputöö sisulise osaga tegelemine (või ülesandeüstituse koostamine)  | -                                                           |
-| 3     | Lõputöö sisulise osaga tegelemine (või ülesandeüstituse koostamine)  | -                                                           |
-| 4     | Lõputöö sisulise osaga tegelemine (või ülesandeüstituse koostamine)  | Ülesandepüstituse esitamine (kui ei ole seminaris esitanud) |
-| 5     | Ülesandepüstituse tagasiside saamine komisjonilt                     | -                                                           |
+| Nädal | Tegevus                                                             | Tähtpunkt                               |
+| ----- | ------------------------------------------------------------------- | --------------------------------------- |
+| 1     | Lõputöö sisulise osaga tegelemine (või ülesandeüstituse koostamine) | -                                       |
+| 2     | Lõputöö sisulise osaga tegelemine (või ülesandeüstituse koostamine) | -                                       |
+| 3     | Lõputöö sisulise osaga tegelemine (või ülesandeüstituse koostamine) | -                                       |
+| 4     | Lõputöö sisulise osaga tegelemine (või ülesandeüstituse koostamine) | Ülesandepüstituse esitamine komisjonile |
+| 5     | Ülesandepüstituse tagasiside saamine komisjonilt                    | -                                       |
 <!-- .element.table: style="font-size:70%;" -->
 ---
-| Nädal  | Tegevus                               | Tähtpunkt              |
-| ------ | ------------------------------------- | ---------------------- |
-| 6      | Lõputöö sisulise osaga tegelemine     | -                      |
-| 7      | Lõputöö sisulise osaga tegelemine     | -                      |
-| 8      | **Lõputööde vaheesitlus komisjonile** | -                      |
-| 9      | Lõputöö sisulise osaga tegelemine     | -                      |
-| 10     | Lõputöö sisulise osaga tegelemine     | -                      |
-| 11     | Lõputöö sisulise osaga tegelemine     | -                      |
-| 12     | (vajadusel lisavaheesitlused)         | -                      |
+| Nädal  | Tegevus                               | Tähtpunkt |
+| ------ | ------------------------------------- | --------- |
+| 6      | Lõputöö sisulise osaga tegelemine     | -         |
+| 7      | Lõputöö sisulise osaga tegelemine     | -         |
+| 8      | **Lõputööde vaheesitlus komisjonile** | -         |
+| 9      | Lõputöö sisulise osaga tegelemine     | -         |
+| 10     | Lõputöö sisulise osaga tegelemine     | -         |
+| 11     | Lõputöö sisulise osaga tegelemine     | -         |
+| 12     | (vajadusel lisavaheesitlused)         | -         |
 <!-- .element.table: style="font-size:70%;" -->
 ---
 | Nädal  | Tegevus                                          | Tähtpunkt                                        |
