@@ -142,7 +142,7 @@ Kirjutada e-mail gert.kanter@taltech.ee
 ## Juhendajatega suhtlemine
 
 - Pidev (soovituslikult iga nädal)
-- Jäta juhendajale aega lugemiseks, vastamiseks, mõtlemiseks
+- Jäta juhendajale aega lugemiseks, mõtlemiseks, vastamiseks
 - Jäta endale aega mõtlemiseks, muudatuste sisseviimiseks
 
 ---
