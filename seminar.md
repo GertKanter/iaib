@@ -52,8 +52,8 @@ Seminari lõpuks on läbijal:
 ---
 | Nädal | Tähtaeg                             | Seminaris                                  |
 | ----- | ----------------------------------- | ------------------------------------------ |
-| 1     | -                                   | Sissejuhatus                               |
-| 2     | Aruanne 1 töö kohta                 | Varasemalt kaitstud töö analüüs grupitööna |
+| 1     | -                                   | Infotund                                   |
+| 2     | Aruanne 1 töö kohta                 | Seminari korraldus, küsimustele vastamine  |
 | 3     | -                                   | Varasemalt kaitstud töö analüüs grupitööna |
 | 4     | Aruanne 2 töö kohta                 | Varasemalt kaitstud töö analüüs grupitööna |
 | 5     | Harjutusülesandepüstituse esitamine | Varasemalt kaitstud töö analüüs grupitööna |
