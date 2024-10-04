@@ -79,14 +79,14 @@ Seminari lõpuks on läbijal:
 <!-- .element.table: style="font-size:70%;" -->
 ---
 ## Seminari hindamine
-| Tegevus                  | Punktid |
-| ------------------------ | ------- |
-| Harjutusülesandepüstitus | 11      |
-| Ülesandepüstitus         | 40      |
-| Tööde analüüs (3x5)      | 15      |
-| Töö analüüsi video       | 10      |
-| Grupitööd                | 24      |
-| **Kokku**                | 100     |
+| Tegevus                            | Punktid |
+| ---------------------------------- | ------- |
+| Harjutusülesandepüstitus           | 11      |
+| Ülesandepüstitus (+projektihaldus) | 40      |
+| Tööde analüüs (3x5)                | 15      |
+| Töö analüüsi video                 | 10      |
+| Grupitööd                          | 24      |
+| **Kokku**                          | 100     |
 
 ---
 ## Kevadsemestri korraldus
