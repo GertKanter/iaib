@@ -64,8 +64,8 @@ Seminari lõpuks on läbijal:
 | 6     | Aruanne 3 töö kohta, Üksteise tööde hindamine | Harjutusülesandepüstituste kaitsmine |
 | 7     | -                                             | Harjutusülesandepüstituste kaitsmine |
 | 8     | Analüüsitud töö video esitamine               | Harjutusülesandepüstituste kaitsmine |
-| 9     | -                                             | Küsimustele vastamine, grupitöö      |
-| 10    | Üksteise analüüsitud tööde videote hindamine  | Küsimustele vastamine, grupitöö      |
+| 9     | -                                             | Harjutusülesandepüstituste kaitsmine |
+| 10    | Üksteise analüüsitud tööde videote hindamine  | Harjutusülesandepüstituste kaitsmine |
 <!-- .element.table: style="font-size:70%;" -->
 ---
 | Nädal | Tähtaeg                                    | Seminaris                       |
@@ -85,7 +85,7 @@ Seminari lõpuks on läbijal:
 | Ülesandepüstitus         | 40      |
 | Tööde analüüs (3x5)      | 15      |
 | Töö analüüsi video       | 10      |
-| Grupitööd (12x2)         | 24      |
+| Grupitööd                | 24      |
 | **Kokku**                | 100     |
 
 ---
