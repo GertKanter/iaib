@@ -40,10 +40,9 @@ Seminari lõpuks on läbijal:
 
 ---
 ## Seminari sisu
-- Komisjoni liikmete ettekanded (videod)
 - Varasemalt kaitstud lõputööde lugemine, analüüs ja hindamine (individuaalselt ja grupis)
 - Video tegemine kaitstud lõputööde analüüsi kohta ja üksteise videote hindamine
-- Harjutusülesandepüstituse ja üksteiste tööde hindamine
+- Harjutusülesandepüstituse ja üksteiste esituste hindamine
 - Lõputöö ülesandepüstituse koostamine
 - Lõputöö projektiga alustamine ja raporteerimine Gitlabis (kokku 30 töötundi)
 
