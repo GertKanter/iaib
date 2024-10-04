@@ -84,7 +84,7 @@ Seminari lõpuks on läbijal:
 | Harjutusülesandepüstitus           | 11      |
 | Ülesandepüstitus (+projektihaldus) | 40      |
 | Tööde analüüs (3x5)                | 15      |
-| Töö analüüsi video                 | 10      |
+| Tööde analüüsi video               | 10      |
 | Grupitööd (2x12)                   | 24      |
 | **Kokku**                          | 100     |
 
