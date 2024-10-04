@@ -63,9 +63,9 @@ Seminari lõpuks on läbijal:
 | ----- | --------------------------------------------- | ------------------------------------ |
 | 6     | Aruanne 3 töö kohta, Üksteise tööde hindamine | Harjutusülesandepüstituste kaitsmine |
 | 7     | -                                             | Harjutusülesandepüstituste kaitsmine |
-| 8     | Analüüsitud töö video esitamine               | Harjutusülesandepüstituste kaitsmine |
+| 8     | Analüüsitud tööde video esitamine             | Harjutusülesandepüstituste kaitsmine |
 | 9     | -                                             | Harjutusülesandepüstituste kaitsmine |
-| 10    | Üksteise analüüsitud tööde videote hindamine  | Harjutusülesandepüstituste kaitsmine |
+| 10    | Üksteise videote hindamine                    | Harjutusülesandepüstituste kaitsmine |
 <!-- .element.table: style="font-size:70%;" -->
 ---
 | Nädal | Tähtaeg                                    | Seminaris                       |
