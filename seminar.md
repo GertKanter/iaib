@@ -31,7 +31,7 @@ gert.kanter@taltech.ee
 <!-- .element.table: style="font-size:60%;" -->
 ---
 ## Seminari aine Moodles
-https://moodle.taltech.ee/course/view.php?id=33833
+https://moodle.taltech.ee/course/view.php?id=35227
 ---
 ## Seminari eesmärk
 Seminari lõpuks on läbijal:
