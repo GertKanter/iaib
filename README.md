@@ -179,7 +179,7 @@ Kui juhendajatel ei ole huvipakkuvaid teemasid, võib välja pakkuda teema ka is
 ---
 ## Ülesandepüstitus
 
-Ülesandepüstituse info on moodle.ttu.ee lõputöö aines ["ITI0218 Bakalaureusetöö seminar (2024)"](https://moodle.taltech.ee/mod/page/view.php?id=629171).
+Ülesandepüstituse info on moodle.ttu.ee lõputöö aines ["ITI0218 Bakalaureusetöö seminar (2025)"](https://moodle.taltech.ee/mod/page/view.php?id=736399).
 
 ---
 ## Projektihaldus
@@ -189,7 +189,7 @@ Peale juhendajaga teema kokkuleppimist käsitleme lõputööd nagu projekti.
 ---
 ## Gitlab
 
-[https://gitlab.cs.ttu.ee](https://gitlab.cs.ttu.ee)
+[https://gitlab.cs.taltech.ee](https://gitlab.cs.taltech.ee)
 
 Projekt "iaib"
 
@@ -261,7 +261,7 @@ Kirjutage potentsiaalsele juhendajale ja arutage, kas tal on tiimiprojekti pakku
 
 [Juhend ja mallid on kättesaadavad teaduskonna kodulehel](https://www.taltech.ee/lopetajale)
 
-[LaTeX mall](https://gitlab.cs.taltech.ee/iaib/thesis-tex)
+[LaTeX mall](https://gitlab.cs.taltech.ee/iaib/thesis-tex-estonian)
 
 ---
 ## Küsitlus lõpetamisfaasis tudengitele
