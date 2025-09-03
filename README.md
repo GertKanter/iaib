@@ -266,7 +266,7 @@ Kirjutage potentsiaalsele juhendajale ja arutage, kas tal on tiimiprojekti pakku
 ---
 ## Küsitlus lõpetamisfaasis tudengitele
 
-Palun täitke vorm: [https://forms.gle/Ydh5nEtw29apwb8r7](https://forms.gle/Ydh5nEtw29apwb8r7)
+Palun täitke vorm: [https://forms.gle/WCeUie9f2XXL1oTC7](https://forms.gle/WCeUie9f2XXL1oTC7)
 
 Selle vormi täitmine aitab meil teile tuge pakkuda, kui me teame, kes aktiivsed on.
 
